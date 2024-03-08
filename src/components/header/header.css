@@ -1,0 +1,34 @@
+.container {
+  padding: 0 80px;
+  padding-top: 24px;
+}
+
+.header__row {
+  display: flex;
+}
+.header__mail {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+}
+
+.text__mail {
+  color: #0587d6;
+  font-family: "Rubik";
+  font-size: 18px;
+  line-height: 28.8px;
+  align-items: center;
+  padding-left: 8px;
+}
+
+.header__social {
+  display: flex;
+  align-items: center;
+}
+
+.social__block {
+  padding-left: 164px;
+}
+
+.header__social {
+}

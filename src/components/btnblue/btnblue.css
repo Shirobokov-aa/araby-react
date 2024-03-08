@@ -1,0 +1,31 @@
+.btnBlue {
+  align-items: center;
+  background: linear-gradient(
+    180deg,
+    rgb(1, 122, 195) 0%,
+    rgb(101.05, 206.9, 240.12) 100%
+  );
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 48px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 0px 16px;
+  position: relative;
+  width: 217px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.btnBlue:hover {
+  background: rgba(0, 68, 149, 1);
+}
+
+.text-wrapper {
+  color: white;
+  font-family: "Rubik-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  height: 29px;
+  line-height: 28.8px;
+}
