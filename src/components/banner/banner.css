@@ -1,0 +1,39 @@
+.main {
+  margin: 0 auto;
+}
+
+.container__banner {
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+}
+
+.banner__img {
+  /* position: fi; */
+  top: 18.8%;
+  left: 240px;
+  width: 1452px;
+}
+
+.text-wrapper__banner {
+  position: absolute;
+
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 120%;
+  /* or 77px */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  top: 30%;
+  color: #ffffff;
+}
