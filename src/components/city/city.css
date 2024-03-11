@@ -1,26 +1,37 @@
 .city {
-    padding-top: 80px;
-    padding-bottom: 48px;
+  padding-top: 80px;
+  padding-bottom: 48px;
 }
 
 .city__tittle {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Rubik';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 140%;
-    text-align: center;
-    color: #0587D6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 140%;
+  text-align: center;
+  color: #0587d6;
 }
 
-.sity__title--line{
-    position: absolute;
-    top: 116%;
+.sity__title--line {
+  box-sizing: border-box;
+  border: 1px dashed #0587d6;
+  width: 292px;
+  height: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 8px;
 }
 
-
-
-
+.cardBig__block {
+  padding-top: 48px;
+  display: flex;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}

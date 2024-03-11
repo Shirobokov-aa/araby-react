@@ -1,0 +1,62 @@
+.cardBig {
+  position: relative;
+}
+
+.cardBig__box {
+  display: flex;
+  justify-content: end;
+}
+
+.cardBig__text {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-right: 40px;
+  padding-bottom: 32px;
+}
+
+.cardBig__subTittle {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
+.cardBig__tittle {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
+.cardBig__price {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
+
+.cardBig__adress {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
