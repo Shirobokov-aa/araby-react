@@ -1,0 +1,26 @@
+.city {
+    padding-top: 80px;
+    padding-bottom: 48px;
+}
+
+.city__tittle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    text-align: center;
+    color: #0587D6;
+}
+
+.sity__title--line{
+    position: absolute;
+    top: 116%;
+}
+
+
+
+
