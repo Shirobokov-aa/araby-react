@@ -1,0 +1,62 @@
+.cardMed {
+  position: relative;
+}
+
+.cardMed__box {
+  display: flex;
+  justify-content: end;
+}
+
+.cardMed__text {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-right: 40px;
+  padding-bottom: 32px;
+}
+
+.cardMed__subTittle {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
+.cardMed__tittle {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
+.cardMed__price {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
+
+.cardMed__adress {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}

@@ -35,3 +35,13 @@
   justify-content: center;
   gap: 20px;
 }
+
+.slider__block {
+  position: relative;
+  padding-top: 24px;
+  display: flex;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  left: 0%;
+}

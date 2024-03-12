@@ -1,0 +1,18 @@
+.slider {
+  position: absolute;
+  top: 50%;
+}
+
+.arrows {
+  display: flex;
+}
+
+.arrows__left {
+  position: relative;
+  right: 507%;
+}
+
+.arrows__right {
+  position: relative;
+  left: 507%;
+}

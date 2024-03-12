@@ -37,12 +37,12 @@ function Header() {
               </a>
             </div>
           </div>
-          <a href="/">
-            <div className="number__block">
-              <img src={number} alt="number" className="img__number" />
+          <div className="number__block">
+            <img src={number} alt="number" className="img__number" />
+            <a href="/">
               <div className="text__number">+98 211373</div>
-            </div>
-          </a>
+            </a>
+          </div>
           <a href="/">
             <div className="header__logo">
               <img src={logoImg} alt="Logo" />

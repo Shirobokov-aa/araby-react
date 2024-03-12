@@ -1,5 +1,7 @@
 import "./city.css";
 import CardBig from "../card-big/Cardbig";
+import Cardmed from "../cardmed/Cardmed";
+import Slider from "../slider/Slider";
 
 function City() {
   return (
@@ -9,6 +11,12 @@ function City() {
       <div className="cardBig__block">
         <CardBig />
         <CardBig />
+      </div>
+      <div className="slider__block">
+        <Cardmed />
+        <Cardmed />
+        <Cardmed />
+        <Slider />
       </div>
     </div>
   );
