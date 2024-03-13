@@ -1,9 +1,9 @@
-.city {
+.hotels {
   padding-top: 80px;
   /* padding-bottom: 48px; */
 }
 
-.city__tittle {
+.hotels__tittle {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,7 +16,7 @@
   color: #0587d6;
 }
 
-.city__title--line {
+.hotels__title--line {
   box-sizing: border-box;
   border: 1px dashed #0587d6;
   width: 292px;
@@ -28,20 +28,11 @@
   margin-top: 8px;
 }
 
-.cardBig__block {
+.HotelCard__info {
+  position: relative;
   padding-top: 48px;
   display: flex;
   display: flex;
   justify-content: center;
   gap: 20px;
-}
-
-.slider__block {
-  position: relative;
-  padding-top: 24px;
-  display: flex;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  left: 0%;
 }

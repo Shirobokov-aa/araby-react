@@ -7,7 +7,7 @@ function City() {
   return (
     <div className="city">
       <div className="city__tittle">تورهای روسیه</div>
-      <div className="sity__title--line"></div>
+      <div className="city__title--line"></div>
       <div className="cardBig__block">
         <CardBig />
         <CardBig />

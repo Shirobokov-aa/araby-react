@@ -1,8 +1,6 @@
 import "./cardmed.css";
 import CardMed from "./../../img/svgCardMed/cardmed.svg";
 
-// напиши ниже функцию
-
 function Cardmed() {
   return (
     <div className="cardMed">

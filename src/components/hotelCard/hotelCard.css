@@ -1,0 +1,52 @@
+.hotelCard {
+  position: relative;
+}
+
+.hotelCard__box {
+  display: flex;
+  justify-content: end;
+}
+
+.hotelCard__text {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-right: 20px;
+  padding-bottom: 32px;
+}
+
+.hotelCard__tittle {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
+.hotelCard__price {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #ffffff;
+}
+
+.hotelCard__icon {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding-right: 45px;
+}
+
+.hotelCard__downBlock {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,9 +1,9 @@
-.city {
+.trip {
   padding-top: 80px;
   /* padding-bottom: 48px; */
 }
 
-.city__tittle {
+.trip__tittle {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,7 +16,7 @@
   color: #0587d6;
 }
 
-.city__title--line {
+.trip__title--line {
   box-sizing: border-box;
   border: 1px dashed #0587d6;
   width: 292px;
@@ -28,20 +28,23 @@
   margin-top: 8px;
 }
 
-.cardBig__block {
-  padding-top: 48px;
+.trip__icone {
+  padding-top: 31px;
   display: flex;
-  display: flex;
+  align-items: center;
   justify-content: center;
-  gap: 20px;
 }
 
-.slider__block {
-  position: relative;
-  padding-top: 24px;
-  display: flex;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  left: 0%;
+.trip__train {
+  padding-right: 205px;
+}
+
+.trip__train--txt {
+  font-family: "Rubik";
+  padding-top: 21px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  text-align: center;
+  color: #0587d6;
 }
